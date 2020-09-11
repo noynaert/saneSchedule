@@ -1,7 +1,8 @@
 
 BaseURL:  https://aps4.missouriwestern.edu/schedule/?tck=202120
 
-Failed curl test: curl -F "course_number=''" -F "subject=ALL" -F "department=HON" -F "display_closed=yes" -F "course-type=all" https://aps4.missouriwestern.edu/schedule/Default.asp?tck=202120 > test.html
+Here is a curl that worked on 2020-09-11:
+curl -d "course_numbr=&subject=ALL&department=HON&display_closed=yes&course-type=all" -X POST  https://aps4.missouriwestern.edu/schedule/Default.asp?tck=202120 > test.html
 
 Post Fields for a search by department:
 course_number=""
