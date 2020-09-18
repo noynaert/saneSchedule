@@ -19,3 +19,8 @@ curl -d "course_numbr=&subject=ALL&department=HON&display_closed=yes&course-type
 
 -Nick is going to set up a sample database in Firebase
 -Frontend encouraged to set up a sample project that can try to pull from Nick's sample database.  The Udemy course uses firebase, so there should be a good example.
+
+## Friday, 09/18/2020
+
+- Have an request for GoogleCloud plateform access for everyone
+- Learn sending http requests and receiving respinses with curl
