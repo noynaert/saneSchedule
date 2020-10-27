@@ -4,15 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Noynaert practice 0.01</title>
+    <script src="https://unpkg.com/vue@next" defer></script>
+    <script src="buttons.js" defer></script>
 </head>
 <body>
     <h1>Pick your Course</h1>
-    <div id="pickCourse">
+    <div id="pickDisc">
         <button>CSC</button>
         <button>MAT</button>
         <button>HON</button>
         <button>CHE</button>
-        <p>You picked </p>
+        <p>You picked {{ disciplineName }}</p>
     </div>
     <div id="courseList">
         <table>
