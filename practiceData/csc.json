@@ -1,0 +1,19 @@
+{
+    "disc":"CSC",
+    "discName":"Computer Science",
+    [
+        {
+            "crn":"25121",
+            "prefix":"CSC",
+            "number":"184",
+            "title":"Intro to Computer Programming",
+            "method":"Classroom w/Online Component",
+            "credits":3,
+            "days":"T",
+            "time":"6:30 - 9:20PM",
+            "instructor":"Yan,B",
+            "seats":25,
+            "available":25
+        }
+    ]
+}
