@@ -30,14 +30,22 @@ html_file_to_parse.write(file_content)
 soup = BeautifulSoup(file_content,'lxml')
 
 for tr_item in soup.find_all('tr', class_='list_row'):
-    td_list = tr_item.find_all('td')
 
-    for td_item in td_list:
-        value = ""
-        if(len(td_item.contents) != 0):
-            value = td_item.contents[0]
-        
-        print(value)
+    detailed_td_list = list(tr_item.stripped_strings)
+    if len(detailed_td_list) == 9:
+        detailed_td_list.insert(7, 'No Time') 
+    for detail in detailed_td_list:
+        print(detail)
+
+    print("\n")
+
+for td_item in soup.find_all('td', class_='detail_cell'):
+     
+    detail_cell_list = list(td_item.stripped_strings)
+    if len(detail_cell_list) == 8:
+        detail_cell_list.remove('Full') 
+    for detail in detail_cell_list:
+        print(detail)
 
     print("\n")
 
