@@ -5,26 +5,6 @@ from soup import SoupHandler
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
-# Create some test data for our catalog in the form of a list of dictionaries.
-books = [
-    {'id': 0,
-     'title': 'A Fire Upon the Deep',
-     'author': 'Vernor Vinge',
-     'first_sentence': 'The coldsleep itself was dreamless.',
-     'year_published': '1992'},
-    {'id': 1,
-     'title': 'The Ones Who Walk Away From Omelas',
-     'author': 'Ursula K. Le Guin',
-     'first_sentence': 'With a clamor of bells that set the swallows soaring, the Festival of Summer came to the city Omelas, bright-towered by the sea.',
-     'published': '1973'},
-    {'id': 2,
-     'title': 'Dhalgren',
-     'author': 'Samuel R. Delany',
-     'first_sentence': 'to wound the autumnal city.',
-     'published': '1975'}
-]
-
-
 @app.route('/', methods=['GET'])
 def home():
     return '''<h1>Distant Reading Archive</h1>
@@ -41,8 +21,7 @@ def no_semester_and_year_page(e):
 # A route to return all of the available entries in our catalog.
 @app.route('/api/v1/courses/all', methods=['GET'])
 def api_all():
-    
-    return jsonify(books)
+    return {}
 
 @app.route('/api/v1/courses/', methods=['GET'])
 def api_filter():
@@ -59,7 +38,7 @@ def api_filter():
     if not (semester or year):
         return no_semester_and_year_page(404)
 
-    to_filter = []
+    #to_filter = []
     conn = SoupHandler(semester, year)
     conn.setup_soup_handler(course_number, department, subject, display_closed, course_type)
     results = conn.proceed_scrapping()

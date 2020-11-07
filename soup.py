@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from Department import Department
 from Subject import Subject
 from CourseType import CourseType
+from Course import Course
 import requests
 import csv
 import json
@@ -74,10 +75,14 @@ class SoupHandler:
         #Create the two dimensional list to add the fields values
         list_row = soup.find_all('tr', class_='list_row')
         number_of_courses = len(list_row)
+        courses_list = []
+        for i in range(number_of_courses):
+            courses_list.append(Course())
+        
         fields_total_number = 17
         courses = [[0] * fields_total_number for i in range(number_of_courses)]
 
-        #Use indexes for add data in the right place in our courses list
+        #Use indexes for add data in the right place in our courses' list
         i,j=0,0
         #Pull all the list row values
         for tr_item in list_row:
