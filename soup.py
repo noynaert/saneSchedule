@@ -143,6 +143,18 @@ class SoupHandler:
         self.get_info_from_class(soup, 'course_term')
         self.get_info_from_class(soup, 'course_dates')
 
+        i=0
+        #Pull all the list row values
+        for detail_cell_item in soup.find_all('td', class_='detail_row'):
+            detailed_td_list = list(detail_cell_item.stripped_strings)
+
+            description = detailed_td_list[len(self.courses_list[i].course_enrollment)]
+            description = description.replace('\t', '')
+            description = description.replace('\xa0', '')
+            description = description.strip()
+            self.courses_list[i].course_description = description
+            i +=1
+    
         list_of_dictionaries = []
         for course_idx in range(0, len(self.courses_list)):
             list_of_dictionaries.append(self.courses_list[course_idx].__dict__)
