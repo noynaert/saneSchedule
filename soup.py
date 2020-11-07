@@ -4,7 +4,6 @@ from Subject import Subject
 from CourseType import CourseType
 from Course import Course
 import requests
-import csv
 import json
 
 class SoupHandler:
@@ -17,6 +16,8 @@ class SoupHandler:
     base_url = ''
     semester = ''
     year = 0
+
+    courses_list = []
     
     def __init__(self, semester, year):
         if(semester == "fall"):
@@ -30,7 +31,9 @@ class SoupHandler:
         self.semester = semester
         
     def setup_soup_handler(self, course_number, department, subject, display_closed, course_type):
-
+        self.course_number = course_number
+        self.display_closed = display_closed
+        self.courses_list = []
         if(department != None):
             for dpt in Department:
                 if dpt.name == department:
@@ -59,6 +62,43 @@ class SoupHandler:
             expression = expression.strip()
         return expression
 
+    def get_info_from_class(self, soup, class_name):
+
+        course_idx = 0
+        #Pull all the data from a specific class and fill the Course's instances
+        for class_item in soup.find_all(class_= class_name):
+            
+            detail_cell_list = list(class_item.stripped_strings)
+
+            additional_info_idx = 1 
+            for detail in detail_cell_list:
+                detail = detail.replace('\t', '')
+                detail = detail.replace('\xa0', '')
+                detail_in_list = detail.split(':')
+                for piece_idx in range(0, len(detail_in_list)):
+                    detail_in_list[piece_idx] = detail_in_list[piece_idx].strip()
+                
+                if(len(detail_in_list) == 2):
+                    if(class_name == "course_enrollment"):
+                        self.courses_list[course_idx].course_enrollment.update({detail_in_list[0]:detail_in_list[1]})
+                    if(class_name == "course_messages"):
+                        self.courses_list[course_idx].course_messages.append(dict({detail_in_list[0]:detail_in_list[1]}))
+                    if(class_name == "course_term"):
+                        self.courses_list[course_idx].course_term.append(dict({detail_in_list[0]:detail_in_list[1]}))
+                    if(class_name == "course_dates"):
+                        self.courses_list[course_idx].course_dates.update({detail_in_list[0]:detail_in_list[1]})
+                else:
+                    if(class_name == "course_enrollment"):
+                        self.courses_list[course_idx].course_enrollment.update({f"Additional Info {additional_info_idx}": detail_in_list[0]})
+                    if(class_name == "course_messages"):
+                        self.courses_list[course_idx].course_messages.append(dict({f"Additional Info {additional_info_idx}": detail_in_list[0]}))
+                    if(class_name == "course_term"):
+                        self.courses_list[course_idx].course_term.append(detail_in_list[0])
+                    if(class_name == "course_dates"):
+                        self.courses_list[course_idx].course_dates.update({f"Additional Info {additional_info_idx}": detail_in_list[0]})
+            
+            course_idx +=1
+
     def proceed_scrapping(self):
         
         html_file = "post_request_file.html"
@@ -75,9 +115,6 @@ class SoupHandler:
         #Create the two dimensional list to add the fields values
         list_row = soup.find_all('tr', class_='list_row')
         number_of_courses = len(list_row)
-        courses_list = []
-        for i in range(number_of_courses):
-            courses_list.append(Course())
         
         fields_total_number = 17
         courses = [[0] * fields_total_number for i in range(number_of_courses)]
@@ -92,63 +129,23 @@ class SoupHandler:
                 detailed_td_list.insert(7, 'No Time') 
             for detail in detailed_td_list:
                 courses[i][j] = detail
-                print(i,j,detail)
                 j += 1
 
             i += 1
             j = 0
-            print("\n")
 
-        #Initialize index for add detailed values data in the right place in our courses list
-        i,j=0,10
-        #Pull all the courses details values
-        for td_item in soup.find_all('td', class_='detail_cell'):
-            
-            detail_cell_list = list(td_item.stripped_strings)
-            if('Full' in detail_cell_list):
-                detail_cell_list.remove('Full') 
-            for detail in detail_cell_list:
-                detail = self.remove_field_name(detail, 'Maximum Enrollment:')
-                detail = self.remove_field_name(detail, 'Section Seats Available:')
-                detail = self.remove_field_name(detail, 'ADDITIONAL FEE:')
-                detail = self.remove_field_name(detail, 'Course Begins:')
-                detail = self.remove_field_name(detail, 'Course Ends:')
-                courses[i][j] = detail
-                print(i, j, detail)
-                j += 1
+        #Declare then initialize list of instances of Course
+        for crse_idx in range(number_of_courses):
+            self.courses_list.append(Course(courses[crse_idx][0], courses[crse_idx][1], courses[crse_idx][2], courses[crse_idx][3], courses[crse_idx][4], courses[crse_idx][5], courses[crse_idx][6], courses[crse_idx][7], courses[crse_idx][8], courses[crse_idx][9]))
 
-            i += 1
-            j = 10
-            print("\n")
-
-
-        field_names = ['CRN', 'Course', 'Sec', 'Type', 'Title', 'Hrs', 'Days', 'Times', 'Room', 'Instructor', 'Maximum Enrollment', 'Section Seats Available', 'Course Details', 'ADDITIONAL FEE', 'Special Note', 'Course Begins', 'Course Ends']
-        with open('data_csv.csv', 'w+', newline='') as csv_file:
-            csv_writer = csv.DictWriter(csv_file, fieldnames = field_names)
-            csv_writer.writeheader()
-
-            #Write courses values in a csv file
-            for row_idx in range(0, len(courses)):
-
-                #Start by removing special char
-                for column_idx in range(0, len(courses[row_idx])):
-                    field_value = courses[row_idx][column_idx].replace('\t', '')
-                    field_value = field_value.replace('\xa0', '')
-                    courses[row_idx][column_idx] = field_value
-                    
-                csv_writer.writerow({field_names[0]:courses[row_idx][0], field_names[1]:courses[row_idx][1],field_names[2]:courses[row_idx][2],
-                                    field_names[3]:courses[row_idx][3], field_names[4]:courses[row_idx][4], field_names[5]:courses[row_idx][5],
-                                    field_names[6]:courses[row_idx][6], field_names[7]:courses[row_idx][7], field_names[8]:courses[row_idx][8],
-                                    field_names[9]:courses[row_idx][9], field_names[10]:courses[row_idx][10], field_names[11]:courses[row_idx][11],
-                                    field_names[12]:courses[row_idx][12],field_names[13]:courses[row_idx][13],field_names[14]:courses[row_idx][14],
-                                    field_names[15]:courses[row_idx][15],field_names[16]:courses[row_idx][16]})
-        csv_file.close()
-        html_file_to_parse.close()
+        self.get_info_from_class(soup, 'course_enrollment')
+        self.get_info_from_class(soup, 'course_messages')
+        self.get_info_from_class(soup, 'course_term')
+        self.get_info_from_class(soup, 'course_dates')
 
         list_of_dictionaries = []
-        with open("data_csv.csv", "r") as csv_file:
-            reader = csv.DictReader(csv_file)
-            list_of_dictionaries = list(reader)
-        csv_file.close()
-        
+        for course_idx in range(0, len(self.courses_list)):
+            list_of_dictionaries.append(self.courses_list[course_idx].__dict__)
+
+        html_file_to_parse.close()
         return list_of_dictionaries
