@@ -29,11 +29,12 @@ def api_filter():
 
     semester = query_parameters.get('semester')
     year = query_parameters.get('year')
+    course_number = query_parameters.get('course_number')
     department = query_parameters.get('department')
     subject = query_parameters.get('subject')    
     course_type = query_parameters.get('course_type')
-    display_closed = 'yes'
-    course_number = ''
+    display_closed = query_parameters.get('display_closed')
+    
 
     if not (semester or year):
         return no_semester_and_year_page(404)
