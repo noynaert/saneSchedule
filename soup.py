@@ -101,42 +101,50 @@ class SoupHandler:
 
     def proceed_scrapping(self):
         
-        html_file = "post_request_file.html"
-
-        #Create the html file to parse and get data
-        html_file_to_parse = open(html_file, 'w+')
-        #File that file with content from http post request
+        #Define a file content using http post request result
         file_content = self.send_request()
-        html_file_to_parse.write(file_content)
+
+        #Delete all special characteres
+        file_content = file_content.replace('\n', '')
+        file_content = file_content.replace('\t', '')
+        file_content = file_content.replace('\xa0', '')
+        file_content = file_content.strip()
 
         #Declare a beautifulsoup instance
         soup = BeautifulSoup(file_content,'lxml')
 
         #Create the two dimensional list to add the fields values
         list_row = soup.find_all('tr', class_='list_row')
-        number_of_courses = len(list_row)
-        
-        fields_total_number = 17
-        courses = [[0] * fields_total_number for i in range(number_of_courses)]
 
-        #Use indexes for add data in the right place in our courses' list
-        i,j=0,0
+        #Create a map of list_row_id <-> detail_row_id
+        header_detail_map = []
+
+        related_course_idx =  0
+        list_row_it = soup.find('tr', class_='list_row')
+        header_detail_map.append(related_course_idx)
+        while(list_row_it.next_sibling != None):
+            list_row_it = list_row_it.next_sibling
+            if("list_row" in list_row_it['class']):
+                header_detail_map.append(related_course_idx)
+            if("detail_row" in list_row_it['class']):
+                related_course_idx +=1
+
         #Pull all the list row values
-        for tr_item in list_row:
-
-            detailed_td_list = list(tr_item.stripped_strings)
-            if len(detailed_td_list) == 9:
-                detailed_td_list.insert(7, 'No Time') 
-            for detail in detailed_td_list:
-                courses[i][j] = detail
-                j += 1
-
-            i += 1
-            j = 0
-
-        #Declare then initialize list of instances of Course
-        for crse_idx in range(number_of_courses):
-            self.courses_list.append(Course(courses[crse_idx][0], courses[crse_idx][1], courses[crse_idx][2], courses[crse_idx][3], courses[crse_idx][4], courses[crse_idx][5], courses[crse_idx][6], courses[crse_idx][7], courses[crse_idx][8], courses[crse_idx][9]))
+        #Update the list of instances of Course
+        for tr_item_idx in range(0,len(list_row)):
+            detailed_td_list = list(list_row[tr_item_idx].stripped_strings)
+            try:
+                self.courses_list[header_detail_map[tr_item_idx]].days.append(detailed_td_list[0])
+                self.courses_list[header_detail_map[tr_item_idx]].times.append(detailed_td_list[1])
+                self.courses_list[header_detail_map[tr_item_idx]].room.append(detailed_td_list[2])
+            except IndexError:
+                if len(detailed_td_list) != 10:
+                    detailed_td_list = []
+                    special_tag = list_row[tr_item_idx]
+                    for child in special_tag.children:
+                        detailed_td_list.append(child.text)
+                     
+                self.courses_list.append(Course(detailed_td_list[0], detailed_td_list[1], detailed_td_list[2], detailed_td_list[3], detailed_td_list[4], detailed_td_list[5], detailed_td_list[6], detailed_td_list[7], detailed_td_list[8], detailed_td_list[9]))
 
         self.get_info_from_class(soup, 'course_enrollment')
         self.get_info_from_class(soup, 'course_messages')
@@ -149,15 +157,11 @@ class SoupHandler:
             detailed_td_list = list(detail_cell_item.stripped_strings)
 
             description = detailed_td_list[len(self.courses_list[i].course_enrollment)]
-            description = description.replace('\t', '')
-            description = description.replace('\xa0', '')
-            description = description.strip()
             self.courses_list[i].course_description = description
             i +=1
     
         list_of_dictionaries = []
         for course_idx in range(0, len(self.courses_list)):
             list_of_dictionaries.append(self.courses_list[course_idx].__dict__)
-
-        html_file_to_parse.close()
+    
         return list_of_dictionaries
