@@ -1,0 +1,1345 @@
+[
+  {
+    "crn": "10138",
+    "course": "CHE101",
+    "sec": "01",
+    "type": "Classroom w/Online Component",
+    "title": "Introductory Chemistry",
+    "hours": "4",
+    "days": ["MW", "MW"],
+    "times": ["11:00AM-12:20PM", "11:00AM-12:20PM"],
+    "room": ["Spratt Hall 214", "Spratt Hall 216"],
+    "instructor": "Svojanovsky, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "97",
+      "Section Seats Available": "6"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "11891",
+    "course": "CHE101",
+    "sec": "05",
+    "type": "Lab",
+    "title": "Introductory Chemistry",
+    "hours": "0",
+    "days": ["T"],
+    "times": ["12:00PM-1:50PM"],
+    "room": ["Remington Hall 317"],
+    "instructor": "Moore, A",
+    "course_enrollment": {
+      "Maximum Enrollment": "144",
+      "Section Seats Available": "1",
+      "Crosslist Seats Available": "53"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      { "This course is crosslisted with": "CHE101 02, CHE101 04, CHE101 06" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12915",
+    "course": "CHE101",
+    "sec": "06",
+    "type": "Lab",
+    "title": "Introductory Chemistry",
+    "hours": "0",
+    "days": ["T"],
+    "times": ["2:00PM-3:50PM"],
+    "room": ["Remington Hall 317"],
+    "instructor": "Moore, A",
+    "course_enrollment": {
+      "Maximum Enrollment": "144",
+      "Section Seats Available": "4",
+      "Crosslist Seats Available": "53"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      { "This course is crosslisted with": "CHE101 02, CHE101 04, CHE101 05" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10146",
+    "course": "CHE111",
+    "sec": "01",
+    "type": "Classroom w/Online Component",
+    "title": "General Chemistry I",
+    "hours": "5",
+    "days": ["MW", "T"],
+    "times": ["9:30AM-10:50AM", "12:30PM-1:25PM"],
+    "room": ["Agenstein Hall 224", "Agenstein Hall 224"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "96",
+      "Section Seats Available": "4",
+      "Crosslist Seats Available": "14"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      },
+      { "This course is crosslisted with": "CHE111 81" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10148",
+    "course": "CHE111",
+    "sec": "03",
+    "type": "Lab",
+    "title": "General Chemistry I",
+    "hours": "0",
+    "days": ["T"],
+    "times": ["9:30AM-12:20PM"],
+    "room": ["Remington Hall 311"],
+    "instructor": "Rhoad, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "96",
+      "Section Seats Available": "2",
+      "Crosslist Seats Available": "14"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      { "This course is crosslisted with": "CHE111 04, CHE111 05, CHE111 07" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10149",
+    "course": "CHE111",
+    "sec": "04",
+    "type": "Lab",
+    "title": "General Chemistry I",
+    "hours": "0",
+    "days": ["T"],
+    "times": ["2:00PM-4:50PM"],
+    "room": ["Remington Hall 311"],
+    "instructor": "Svojanovsky, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "96",
+      "Section Seats Available": "4",
+      "Crosslist Seats Available": "14"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      { "This course is crosslisted with": "CHE111 03, CHE111 05, CHE111 07" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10150",
+    "course": "CHE111",
+    "sec": "05",
+    "type": "Lab",
+    "title": "General Chemistry I",
+    "hours": "0",
+    "days": ["W"],
+    "times": ["2:00PM-4:50PM"],
+    "room": ["Remington Hall 311"],
+    "instructor": "Mikita, N",
+    "course_enrollment": {
+      "Maximum Enrollment": "96",
+      "Section Seats Available": "2",
+      "Crosslist Seats Available": "14"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      { "This course is crosslisted with": "CHE111 03, CHE111 04, CHE111 07" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10152",
+    "course": "CHE111",
+    "sec": "07",
+    "type": "Lab",
+    "title": "General Chemistry I",
+    "hours": "0",
+    "days": ["R"],
+    "times": ["2:00PM-4:50PM"],
+    "room": ["Remington Hall 311"],
+    "instructor": "Mikita, N",
+    "course_enrollment": {
+      "Maximum Enrollment": "96",
+      "Section Seats Available": "6",
+      "Crosslist Seats Available": "14"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      { "This course is crosslisted with": "CHE111 03, CHE111 04, CHE111 05" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10153",
+    "course": "CHE111",
+    "sec": "81",
+    "type": "Classroom w/Online Component",
+    "title": "General Chemistry I (Honors)",
+    "hours": "5",
+    "days": ["MW", "T"],
+    "times": ["9:30AM-10:50AM", "12:30PM-1:25PM"],
+    "room": ["Agenstein Hall 224", "Agenstein Hall 224"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "96",
+      "Section Seats Available": "10",
+      "Crosslist Seats Available": "14"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      },
+      { "This course is crosslisted with": "CHE111 01" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "14695",
+    "course": "CHE112",
+    "sec": "01",
+    "type": "Lecture, 100% in Classroom",
+    "title": "Problem Solving for Gen Chem I",
+    "hours": "1",
+    "days": ["M"],
+    "times": ["2:00PM-2:55PM"],
+    "room": ["Agenstein Hall 326"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "20",
+      "Section Seats Available": "14"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10155",
+    "course": "CHE120",
+    "sec": "01",
+    "type": "Classroom w/Online Component",
+    "title": "General Chemistry II",
+    "hours": "5",
+    "days": ["MW", "T"],
+    "times": ["9:30AM-10:50AM", "12:30PM-1:25PM"],
+    "room": ["Agenstein Hall 328", "Agenstein Hall 328"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "36",
+      "Section Seats Available": "9"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10157",
+    "course": "CHE120",
+    "sec": "02",
+    "type": "Lab",
+    "title": "General Chemistry II",
+    "hours": "0",
+    "days": ["R"],
+    "times": ["9:30AM-12:20PM"],
+    "room": ["Remington Hall 305"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "18",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10158",
+    "course": "CHE120",
+    "sec": "03",
+    "type": "Lab",
+    "title": "General Chemistry II",
+    "hours": "0",
+    "days": ["R"],
+    "times": ["2:00PM-4:50PM"],
+    "room": ["Remington Hall 305"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "18",
+      "Section Seats Available": "8"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "15194",
+    "course": "CHE121",
+    "sec": "01",
+    "type": "Lecture, 100% in Classroom",
+    "title": "Problem Solving for GenChem II",
+    "hours": "1",
+    "days": ["R"],
+    "times": ["12:30PM-1:25PM"],
+    "room": ["Agenstein Hall 328"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "20",
+      "Section Seats Available": "15"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10166",
+    "course": "CHE311",
+    "sec": "02",
+    "type": "Lab",
+    "title": "Organic Chemistry Laboratory I",
+    "hours": "2",
+    "days": ["TR", "TR"],
+    "times": ["9:30AM-12:20PM", "9:30AM-12:20PM"],
+    "room": ["Remington Hall 308", "Agenstein Hall 323"],
+    "instructor": "Lorimor, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "18",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10168",
+    "course": "CHE312",
+    "sec": "01",
+    "type": "Classroom w/Online Component",
+    "title": "Organic Chemistry II",
+    "hours": "3",
+    "days": ["MW"],
+    "times": ["9:30AM-10:50AM"],
+    "room": ["Agenstein Hall 323"],
+    "instructor": "Rhoad, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "18",
+      "Section Seats Available": "9"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10172",
+    "course": "CHE313",
+    "sec": "01",
+    "type": "Lab",
+    "title": "Organic Chemistry Lab II",
+    "hours": "2",
+    "days": ["TR", "TR"],
+    "times": ["2:00PM-4:50PM", "2:00PM-4:50PM"],
+    "room": ["Remington Hall 308", "Agenstein Hall 323"],
+    "instructor": "Rhoad, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "18",
+      "Section Seats Available": "13"
+    },
+    "course_description": "",
+    "course_messages": [
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "11911",
+    "course": "CHE370",
+    "sec": "01",
+    "type": "Classroom w/Online Component",
+    "title": "Biochemistry I",
+    "hours": "4",
+    "days": ["MW"],
+    "times": ["8:00AM-9:20AM"],
+    "room": ["Agenstein Hall 328"],
+    "instructor": "Mikita, N",
+    "course_enrollment": {
+      "Maximum Enrollment": "32",
+      "Section Seats Available": "3"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "11912",
+    "course": "CHE370",
+    "sec": "02",
+    "type": "Lab",
+    "title": "Biochemistry I",
+    "hours": "0",
+    "days": ["T"],
+    "times": ["2:00PM-4:50PM"],
+    "room": ["Remington Hall 305"],
+    "instructor": "Mikita, N",
+    "course_enrollment": {
+      "Maximum Enrollment": "16",
+      "Section Seats Available": "4"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+      },
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "14168",
+    "course": "CHE381",
+    "sec": "01",
+    "type": "Lecture, 100% in Classroom",
+    "title": "P-Chem: Quantum Mechanics",
+    "hours": "3",
+    "days": ["MW", "MW"],
+    "times": ["12:30PM-1:50PM", "12:30PM-1:50PM"],
+    "room": ["Agenstein Hall 339", "Agenstein Hall 323"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "12",
+      "Section Seats Available": "10",
+      "Crosslist Seats Available": "10"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      },
+      { "This course is crosslisted with": "CHE381 80" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "14169",
+    "course": "CHE381",
+    "sec": "80",
+    "type": "Lecture, 100% in Classroom",
+    "title": "P-Chem: Quantum Mech (Honors)",
+    "hours": "3",
+    "days": ["MW", "MW"],
+    "times": ["12:30PM-1:50PM", "12:30PM-1:50PM"],
+    "room": ["Agenstein Hall 339", "Agenstein Hall 323"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "12",
+      "Section Seats Available": "5",
+      "Crosslist Seats Available": "10"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      },
+      { "This course is crosslisted with": "CHE381 01" }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "14170",
+    "course": "CHE382",
+    "sec": "01",
+    "type": "Lab",
+    "title": "P-Chem Lab: Quantum Mechanics",
+    "hours": "1",
+    "days": ["T"],
+    "times": ["2:00PM-4:50PM"],
+    "room": ["Agenstein Hall 339"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "12",
+      "Section Seats Available": "10"
+    },
+    "course_description": "",
+    "course_messages": [
+      { "ADDITIONAL FEE": "Chemistry Lab Fee   100.00 FLAT(Flat Fee)" },
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10199",
+    "course": "CHE450",
+    "sec": "01",
+    "type": "Independent Study",
+    "title": "Independent Research/Project",
+    "hours": "1",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "3",
+      "Section Seats Available": "3"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10200",
+    "course": "CHE450",
+    "sec": "02",
+    "type": "Independent Study",
+    "title": "Independent Research/Project",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "3",
+      "Section Seats Available": "3"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10201",
+    "course": "CHE450",
+    "sec": "03",
+    "type": "Independent Study",
+    "title": "Independent Research/Project",
+    "hours": "3",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "3",
+      "Section Seats Available": "3"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12671",
+    "course": "CHE490",
+    "sec": "08",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12672",
+    "course": "CHE490",
+    "sec": "09",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "3",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12673",
+    "course": "CHE490",
+    "sec": "10",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "1",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Hiley, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12675",
+    "course": "CHE490",
+    "sec": "11",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Hiley, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12676",
+    "course": "CHE490",
+    "sec": "12",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "3",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Hiley, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12678",
+    "course": "CHE490",
+    "sec": "13",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "1",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Lorimor, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12679",
+    "course": "CHE490",
+    "sec": "14",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Lorimor, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12680",
+    "course": "CHE490",
+    "sec": "15",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "3",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Lorimor, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12681",
+    "course": "CHE490",
+    "sec": "16",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "1",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Rhoad, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12682",
+    "course": "CHE490",
+    "sec": "17",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Rhoad, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12684",
+    "course": "CHE490",
+    "sec": "18",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "3",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Rhoad, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12686",
+    "course": "CHE490",
+    "sec": "19",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "1",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Mikita, N",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12688",
+    "course": "CHE490",
+    "sec": "20",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Mikita, N",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12689",
+    "course": "CHE490",
+    "sec": "21",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Mikita, N",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12698",
+    "course": "CHE490",
+    "sec": "23",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12700",
+    "course": "CHE490",
+    "sec": "24",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "3",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Woodford, J",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12702",
+    "course": "CHE490",
+    "sec": "25",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "1",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Svojanovsky, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12704",
+    "course": "CHE490",
+    "sec": "26",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Svojanovsky, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "12705",
+    "course": "CHE490",
+    "sec": "27",
+    "type": "Independent Research",
+    "title": "Research in Chemistry",
+    "hours": "3",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Svojanovsky, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "1",
+      "Section Seats Available": "1"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10210",
+    "course": "CHE490",
+    "sec": "80",
+    "type": "Independent Research",
+    "title": "Research In Chemistry (Honors)",
+    "hours": "1",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "5",
+      "Section Seats Available": "5"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10211",
+    "course": "CHE490",
+    "sec": "81",
+    "type": "Independent Research",
+    "title": "Research In Chemistry (Honors)",
+    "hours": "2",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "5",
+      "Section Seats Available": "5"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "10212",
+    "course": "CHE490",
+    "sec": "82",
+    "type": "Independent Research",
+    "title": "Research In Chemistry (Honors)",
+    "hours": "3",
+    "days": [""],
+    "times": ["-"],
+    "room": ["Arranged ARRG"],
+    "instructor": "Ducey, M",
+    "course_enrollment": {
+      "Maximum Enrollment": "5",
+      "Section Seats Available": "5"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  },
+  {
+    "crn": "15408",
+    "course": "CHE530",
+    "sec": "01",
+    "type": "Lecture, 100% in Classroom",
+    "title": "Principles of Quality Assuranc",
+    "hours": "3",
+    "days": ["R"],
+    "times": ["6:30PM-9:20PM"],
+    "room": ["Agenstein Hall 326"],
+    "instructor": "Svojanovsky, S",
+    "course_enrollment": {
+      "Maximum Enrollment": "12",
+      "Section Seats Available": "10"
+    },
+    "course_description": "",
+    "course_messages": [
+      {
+        "ADDITIONAL FEE": "Chemistry Program Fee    38.00 CRED(per Credit Hour fee)"
+      }
+    ],
+    "course_term": ["Full Term"],
+    "course_dates": {
+      "Course Begins": "8/17/2020",
+      "Course Ends": "11/24/2020"
+    }
+  }
+]

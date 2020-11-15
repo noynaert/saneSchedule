@@ -1,10 +1,20 @@
+#  See https://flask-json.readthedocs.io/en/latest/ for the json
+
 import flask
+import flask_json
+
 from flask import request, jsonify
+
+from flask_json import FlaskJSON, json_response, as_json
 from soup import SoupHandler
 
 app = flask.Flask(__name__)
-app.config["DEBUG"] = True
+json = FlaskJSON(app)
 
+app.config["DEBUG"] = True
+@json.encoder
+def custom_encoder(o):
+    pass
 @app.route('/', methods=['GET'])
 def home():
     return '''<h1>Distant Reading Archive</h1>
@@ -18,12 +28,14 @@ def page_not_found(e):
 def no_semester_and_year_page(e):
     return "<h1>404</h1><p>You have not specified any semester or year !</p>", 404
 
+
 # A route to return all of the available entries in our catalog.
 @app.route('/api/v1/courses/all', methods=['GET'])
 def api_all():
     return {}
 
 @app.route('/api/v1/courses/', methods=['GET'])
+@as_json
 def api_filter():
     query_parameters = request.args
 
@@ -44,6 +56,12 @@ def api_filter():
     conn.setup_soup_handler(course_number, department, subject, display_closed, course_type)
     results = conn.proceed_scrapping()
 
-    return jsonify(results)
+    return results
+    #return jsonify(results)
+    print ("====================JSON: ")
+    print (jsonify(results))
+    print ("====================")
+
+   # return json_response(results)
 
 app.run()
