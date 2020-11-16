@@ -1,0 +1,215 @@
+// 20201116083457
+// http://127.0.0.1:5000/api/v1/courses/?semester=fall&year=2021&subject=HON
+
+[
+    {
+      "course": "HON195",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "5"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Honors Program Fee    31.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15505",
+      "days": [
+        "MW"
+      ],
+      "hours": "2",
+      "instructor": "DesAutels, L",
+      "room": [
+        "Spratt Hall 109"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-11:55AM"
+      ],
+      "title": "Honors Colloquium",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "HON195",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "5"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Honors Program Fee    31.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15508",
+      "days": [
+        "T"
+      ],
+      "hours": "2",
+      "instructor": "Tushaus, D",
+      "room": [
+        "Spratt Hall 109"
+      ],
+      "sec": "04",
+      "times": [
+        "2:00PM-3:20PM"
+      ],
+      "title": "Honors Colloquium",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "HON195",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Honors Program Fee    31.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15509",
+      "days": [
+        ""
+      ],
+      "hours": "2",
+      "instructor": "Adkins, K",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Honors Colloquium",
+      "type": "100% Online"
+    },
+    {
+      "course": "HON195",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Honors Program Fee    31.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15507",
+      "days": [
+        "TR"
+      ],
+      "hours": "2",
+      "instructor": "Hart, E",
+      "room": [
+        "Spratt Hall 103"
+      ],
+      "sec": "41",
+      "times": [
+        "9:30AM-10:25AM"
+      ],
+      "title": "Honors Colloquium",
+      "type": "100% Online w/Meeting Times"
+    },
+    {
+      "course": "HON395",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Honors Program Fee    31.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15512",
+      "days": [
+        "T"
+      ],
+      "hours": "2",
+      "instructor": "Hiley, S",
+      "room": [
+        "Agenstein Hall 330"
+      ],
+      "sec": "03",
+      "times": [
+        "2:00PM-4:50PM"
+      ],
+      "title": "Honors Colloquium",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "HON395",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "3"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Honors Program Fee    31.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15511",
+      "days": [
+        ""
+      ],
+      "hours": "2",
+      "instructor": "Kovacs, M",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Honors Colloquium",
+      "type": "100% Online"
+    }
+  ]

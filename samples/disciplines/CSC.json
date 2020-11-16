@@ -1,0 +1,639 @@
+[
+    {
+      "course": "CSC184",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "9"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10257",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Kendall-Morwick, J",
+      "room": [
+        "Remington Hall 108"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Intro to Computer Programming",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "CSC184",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "8"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15195",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Kendall-Morwick, J",
+      "room": [
+        "Remington Hall 108"
+      ],
+      "sec": "02",
+      "times": [
+        "12:30PM-1:50PM"
+      ],
+      "title": "Intro to Computer Programming",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "CSC201",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "35",
+        "Section Seats Available": "3"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "B&N - First Day Program   123.29 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "13234",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Yan, B",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Microcomputer Applications",
+      "type": "100% Online"
+    },
+    {
+      "course": "CSC254",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10267",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Kendall-Morwick, J",
+      "room": [
+        "Remington Hall 108"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Object Oriented Programming",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "CSC264",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15202",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Yan, B",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Comp Architect & Assembly Lang",
+      "type": "100% Online"
+    },
+    {
+      "course": "CSC274",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "35",
+        "Section Seats Available": "3"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15200",
+      "days": [
+        "TR"
+      ],
+      "hours": "2",
+      "instructor": "Noynaert, J",
+      "room": [
+        "Online Course"
+      ],
+      "sec": "40",
+      "times": [
+        "2:00PM-2:55PM"
+      ],
+      "title": "Introduction to Unix/Linux",
+      "type": "100% Online w/Meeting Times"
+    },
+    {
+      "course": "CSC285",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "15"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15502",
+      "days": [
+        "R"
+      ],
+      "hours": "3",
+      "instructor": "Pickett, H",
+      "room": [
+        "Online Course"
+      ],
+      "sec": "40",
+      "times": [
+        "2:00PM-4:40PM"
+      ],
+      "title": "Data Structures",
+      "type": "100% Online"
+    },
+    {
+      "course": "CSC289",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "10"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15503",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Yan, B",
+      "room": [
+        "Agenstein Hall 119"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Computational Methods for CS",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "CSC328",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "13"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "11962",
+      "days": [
+        "R"
+      ],
+      "hours": "3",
+      "instructor": "Pickett, H",
+      "room": [
+        "Online Course"
+      ],
+      "sec": "40",
+      "times": [
+        "6:30PM-9:10PM"
+      ],
+      "title": "Computer Graphics",
+      "type": "100% Online"
+    },
+    {
+      "course": "CSC400",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10271",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Hecker, C",
+      "room": [
+        "Agenstein Hall 119"
+      ],
+      "sec": "01",
+      "times": [
+        "12:30PM-1:50PM"
+      ],
+      "title": "Systems Analysis and Design",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "CSC410",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12329",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Kwok, Y",
+      "room": [
+        "Agenstein Hall 126"
+      ],
+      "sec": "01",
+      "times": [
+        "2:00PM-3:20PM"
+      ],
+      "title": "Network Security Technologies",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "CSC445",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "16",
+        "Section Seats Available": "11"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15600",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Yan, B",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Mobile Device App Development",
+      "type": "100% Online"
+    },
+    {
+      "course": "CSC490",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "13",
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "15"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "ACT490 40"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15203",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Pickett, H",
+      "room": [
+        "Online Course"
+      ],
+      "sec": "40",
+      "times": [
+        "11:00AM-11:55AM"
+      ],
+      "title": "CS Career Preparation",
+      "type": "100% Online"
+    },
+    {
+      "course": "CSC520",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "15"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "14900",
+      "days": [
+        "M"
+      ],
+      "hours": "3",
+      "instructor": "Kwok, Y",
+      "room": [
+        "Agenstein Hall 127"
+      ],
+      "sec": "01",
+      "times": [
+        "6:30PM-9:10PM"
+      ],
+      "title": "Adv Networking/Network Admin",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "CSC550",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "12"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13633",
+      "days": [
+        "T"
+      ],
+      "hours": "3",
+      "instructor": "Yan, B",
+      "room": [
+        "Agenstein Hall 127"
+      ],
+      "sec": "01",
+      "times": [
+        "6:30PM-9:10PM"
+      ],
+      "title": "Applied Cryptography",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "CSC570",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "10"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "14293",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Yan, B",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Ethical Hacking",
+      "type": "100% Online"
+    },
+    {
+      "course": "CSC590",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "9"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15002",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Kendall-Morwick, J",
+      "room": [
+        "Agenstein Hall 127"
+      ],
+      "sec": "01",
+      "times": [
+        "5:00PM-6:20PM"
+      ],
+      "title": "IT Project Management",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "CSC625",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "14294",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Kwok, Y",
+      "room": [
+        "Agenstein Hall 127"
+      ],
+      "sec": "01",
+      "times": [
+        "5:00PM-6:20PM"
+      ],
+      "title": "Network Info Systems Security",
+      "type": "Lecture, 100% in Classroom"
+    }
+  ]

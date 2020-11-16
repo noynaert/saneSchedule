@@ -1,0 +1,866 @@
+[
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "21"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15184",
+      "days": [
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Ducey, M",
+      "room": [
+        "Murphy Hall 107"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:20AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15215",
+      "days": [
+        "M"
+      ],
+      "hours": "1",
+      "instructor": "Ganong, C",
+      "room": [
+        "Agenstein Hall 123"
+      ],
+      "sec": "02",
+      "times": [
+        "3:30PM-4:25PM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "10"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15216",
+      "days": [
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Walton, K",
+      "room": [
+        "Agenstein Hall 328"
+      ],
+      "sec": "03",
+      "times": [
+        "11:00AM-11:55AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "20"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15217",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Barta, C",
+      "room": [
+        "Wilson Hall 105"
+      ],
+      "sec": "04",
+      "times": [
+        "9:30AM-10:25AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "15"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15218",
+      "days": [
+        "R"
+      ],
+      "hours": "1",
+      "instructor": "Koy, K",
+      "room": [
+        "Murphy Hall 218"
+      ],
+      "sec": "05",
+      "times": [
+        "9:30AM-10:25AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "19"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15219",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Ducey, M",
+      "room": [
+        "Agenstein Hall 330"
+      ],
+      "sec": "06",
+      "times": [
+        "2:00PM-2:50PM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15221",
+      "days": [
+        "R"
+      ],
+      "hours": "1",
+      "instructor": "Kissock, S",
+      "room": [
+        "Agenstein Hall 124"
+      ],
+      "sec": "07",
+      "times": [
+        "9:30AM-10:20AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15223",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Poet, J",
+      "room": [
+        "Agenstein Hall 124"
+      ],
+      "sec": "09",
+      "times": [
+        "12:30PM-1:20PM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "9"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15224",
+      "days": [
+        "R"
+      ],
+      "hours": "1",
+      "instructor": "Gann, C",
+      "room": [
+        "Eder Hall 210"
+      ],
+      "sec": "10",
+      "times": [
+        "9:30AM-10:20AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "12"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15225",
+      "days": [
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Midgley Jr., H",
+      "room": [
+        "Murphy Hall 112"
+      ],
+      "sec": "11",
+      "times": [
+        "11:00AM-11:50AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "19"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15226",
+      "days": [
+        "R"
+      ],
+      "hours": "1",
+      "instructor": "Stevens, D",
+      "room": [
+        "Murphy Hall 103"
+      ],
+      "sec": "12",
+      "times": [
+        "9:30AM-10:20AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "40",
+        "Section Seats Available": "26"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15229",
+      "days": [
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Yang, X",
+      "room": [
+        "Wilson Hall 155"
+      ],
+      "sec": "15",
+      "times": [
+        "11:00AM-11:50AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "40",
+        "Section Seats Available": "25"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15230",
+      "days": [
+        "R"
+      ],
+      "hours": "1",
+      "instructor": "Ducey, M",
+      "room": [
+        "Popplewell Hall 206"
+      ],
+      "sec": "16",
+      "times": [
+        "9:00AM-9:50AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "19"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15231",
+      "days": [
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Stevens, D",
+      "room": [
+        "Murphy Hall 201"
+      ],
+      "sec": "17",
+      "times": [
+        "5:00PM-5:50PM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "16"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15232",
+      "days": [
+        "M"
+      ],
+      "hours": "1",
+      "instructor": "Piechowski, H",
+      "room": [
+        "Popplewell Hall 102"
+      ],
+      "sec": "18",
+      "times": [
+        "9:00AM-9:50AM"
+      ],
+      "title": "The University Experience",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "16",
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "25"
+      },
+      "course_messages": [
+        {
+          "This course is crosslisted with": "UNV101 25"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15233",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Raney, M",
+      "room": [
+        "Popplewell Hall 102"
+      ],
+      "sec": "19",
+      "times": [
+        "9:00AM-9:50AM"
+      ],
+      "title": "The University Experience",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15234",
+      "days": [
+        "R"
+      ],
+      "hours": "1",
+      "instructor": "Lorimor, S",
+      "room": [
+        "Spratt Hall 205"
+      ],
+      "sec": "20",
+      "times": [
+        "1:00PM-1:50PM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "10"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15235",
+      "days": [
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Buckler, M",
+      "room": [
+        "Popplewell Hall 104"
+      ],
+      "sec": "21",
+      "times": [
+        "12:30PM-1:20PM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15236",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Collins Keller, A",
+      "room": [
+        "Murphy Hall 310"
+      ],
+      "sec": "22",
+      "times": [
+        "9:30AM-10:25AM"
+      ],
+      "title": "The University Experience",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15237",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Collins Keller, A",
+      "room": [
+        "Murphy Hall 310"
+      ],
+      "sec": "23",
+      "times": [
+        "11:00AM-11:55AM"
+      ],
+      "title": "The University Experience",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "15"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15238",
+      "days": [
+        "M"
+      ],
+      "hours": "1",
+      "instructor": "Rieck, S",
+      "room": [
+        "Murphy Hall 224"
+      ],
+      "sec": "24",
+      "times": [
+        "2:00PM-2:55PM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "16",
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "21"
+      },
+      "course_messages": [
+        {
+          "This course is crosslisted with": "UNV101 19"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15239",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Raney, M",
+      "room": [
+        "Popplewell Hall 102"
+      ],
+      "sec": "25",
+      "times": [
+        "9:00AM-9:50AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "11"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15241",
+      "days": [
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Brecheisen, T",
+      "room": [
+        "Eder Hall 210"
+      ],
+      "sec": "27",
+      "times": [
+        "10:00AM-10:50AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "25"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15259",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Evans, D",
+      "room": [
+        "Spratt Hall 201"
+      ],
+      "sec": "28",
+      "times": [
+        "11:00AM-11:50AM"
+      ],
+      "title": "The University Experience",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "35",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15580",
+      "days": [
+        ""
+      ],
+      "hours": "1",
+      "instructor": "Stevens, D",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "The University Experience",
+      "type": "100% Online"
+    },
+    {
+      "course": "UNV101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "21"
+      },
+      "course_messages": [
+        
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15222",
+      "days": [
+        ""
+      ],
+      "hours": "1",
+      "instructor": "Atkinson, J",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "41",
+      "times": [
+        "-"
+      ],
+      "title": "The University Experience",
+      "type": "100% Online"
+    }
+  ]

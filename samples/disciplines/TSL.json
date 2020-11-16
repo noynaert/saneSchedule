@@ -1,0 +1,115 @@
+[
+    {
+      "course": "TSL459",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "20",
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Education Program Fees    47.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "TSL559 40"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13829",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Rumpf, R",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Pol, Curr, and Instr for ELLs",
+      "type": "100% Online w/Meeting Times"
+    },
+    {
+      "course": "TSL559",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "20",
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "11"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Education Program Fees    47.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "TSL459 40"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "13679",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Rumpf, R",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Policy, Curric, & Instruct ELL",
+      "type": "100% Online"
+    },
+    {
+      "course": "TSL661",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "11"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Education Program Fees    47.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15348",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Johnson, A",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Second Language Acquisition",
+      "type": "100% Online"
+    }
+  ]

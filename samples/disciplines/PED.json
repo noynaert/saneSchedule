@@ -1,0 +1,1573 @@
+[
+    {
+      "course": "PED101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "120",
+        "Section Seats Available": "102"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11459",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Buckler, M",
+      "room": [
+        "Griffon Indoor Sports Complex 113",
+        "Griffon Indoor Sports Complex 134"
+      ],
+      "sec": "08",
+      "times": [
+        "11:00AM-11:55AM",
+        "11:00AM-11:55AM"
+      ],
+      "title": "Fitness and Wellness",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "10/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "40",
+        "Section Seats Available": "31"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "PED 101 Lab"
+      ],
+      "crn": "11465",
+      "days": [
+        "TR"
+      ],
+      "hours": "0",
+      "instructor": "Schilling, A",
+      "room": [
+        "Baker Center 133"
+      ],
+      "sec": "12",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Fitness and Wellness",
+      "type": "Lab"
+    },
+    {
+      "course": "PED101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "10/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "80",
+        "Section Seats Available": "64"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "PED 101 Lab"
+      ],
+      "crn": "11469",
+      "days": [
+        "TR"
+      ],
+      "hours": "0",
+      "instructor": "Larimore, A",
+      "room": [
+        "Griffon Indoor Sports Complex INDOOR FLD"
+      ],
+      "sec": "16",
+      "times": [
+        "12:30PM-1:25PM"
+      ],
+      "title": "Fitness and Wellness",
+      "type": "Lab"
+    },
+    {
+      "course": "PED101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "107",
+        "Maximum Enrollment": "148",
+        "Section Seats Available": "108"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "PED101 81"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "11479",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Russell, W",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Fitness and Wellness",
+      "type": "100% Online"
+    },
+    {
+      "course": "PED101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "148",
+        "Section Seats Available": "107"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "11480",
+      "days": [
+        ""
+      ],
+      "hours": "0",
+      "instructor": "Russell, W",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "41",
+      "times": [
+        "-"
+      ],
+      "title": "Fitness and Wellness",
+      "type": "Lab"
+    },
+    {
+      "course": "PED101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "18"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11481",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Russell, W",
+      "room": [
+        "Looney Complex 216"
+      ],
+      "sec": "80",
+      "times": [
+        "12:30PM-1:25PM"
+      ],
+      "title": "Fitness And Wellness (Honors)",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED118",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10979",
+      "days": [
+        "M"
+      ],
+      "hours": "1",
+      "instructor": "Burks, R",
+      "room": [
+        "Off Campus"
+      ],
+      "sec": "01",
+      "times": [
+        "2:00PM-3:50PM"
+      ],
+      "title": "Beginning Bowling",
+      "type": "Lab"
+    },
+    {
+      "course": "PED118",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "5"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10980",
+      "days": [
+        "M"
+      ],
+      "hours": "1",
+      "instructor": "Burks, R",
+      "room": [
+        "Off Campus"
+      ],
+      "sec": "02",
+      "times": [
+        "4:00PM-5:50PM"
+      ],
+      "title": "Beginning Bowling",
+      "type": "Lab"
+    },
+    {
+      "course": "PED120",
+      "course_dates": {
+        "Course Begins": "9/1/2020",
+        "Course Ends": "10/22/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "16",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Off Schedule (Dept)"
+      ],
+      "crn": "15521",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "hours": "1",
+      "instructor": "Garrido Rivas, O",
+      "room": [
+        "Looney Complex 227",
+        "Looney Complex TC"
+      ],
+      "sec": "02",
+      "times": [
+        "11:00AM-12:20PM",
+        "11:00AM-12:20PM"
+      ],
+      "title": "Beginning Tennis",
+      "type": "Lab"
+    },
+    {
+      "course": "PED128",
+      "course_dates": {
+        "Course Begins": "9/22/2020",
+        "Course Ends": "10/13/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "5"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Off Schedule (Dept)"
+      ],
+      "crn": "15522",
+      "days": [
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Gerling, J",
+      "room": [
+        "Looney Complex 212"
+      ],
+      "sec": "01",
+      "times": [
+        "6:00PM-8:50PM"
+      ],
+      "title": "Beginning Backpacking",
+      "type": "Lab"
+    },
+    {
+      "course": "PED138",
+      "course_dates": {
+        "Course Begins": "9/16/2020",
+        "Course Ends": "10/7/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Off Schedule (Dept)"
+      ],
+      "crn": "15524",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Sternberg, E",
+      "room": [
+        "Looney Complex 226"
+      ],
+      "sec": "01",
+      "times": [
+        "5:00PM-7:50PM"
+      ],
+      "title": "Beginning Canoeing",
+      "type": "Lab"
+    },
+    {
+      "course": "PED141",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "35",
+        "Section Seats Available": "25"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15158",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Sims, C",
+      "room": [
+        "Looney Complex WB"
+      ],
+      "sec": "01",
+      "times": [
+        "6:30PM-8:20PM"
+      ],
+      "title": "Beginning Karate",
+      "type": "Lab"
+    },
+    {
+      "course": "PED144",
+      "course_dates": {
+        "Course Begins": "9/1/2020",
+        "Course Ends": "11/3/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "13"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Off Schedule (Dept)"
+      ],
+      "crn": "15526",
+      "days": [
+        "T",
+        "T"
+      ],
+      "hours": "1",
+      "instructor": "Garrido Rivas, O",
+      "room": [
+        "Looney Complex 212",
+        "Looney Complex GYM"
+      ],
+      "sec": "01",
+      "times": [
+        "12:30PM-2:20PM",
+        "12:30PM-2:20PM"
+      ],
+      "title": "Beginning Recreation Games",
+      "type": "Lab"
+    },
+    {
+      "course": "PED145",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "19"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10992",
+      "days": [
+        "TR"
+      ],
+      "hours": "1",
+      "instructor": "Furlong, K",
+      "room": [
+        "Looney Complex ARENA"
+      ],
+      "sec": "01",
+      "times": [
+        "12:30PM-1:25PM"
+      ],
+      "title": "Aerobic Dance",
+      "type": "Lab"
+    },
+    {
+      "course": "PED158",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "110",
+        "Section Seats Available": "25"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10995",
+      "days": [
+        ""
+      ],
+      "hours": "1",
+      "instructor": "Dodd, R",
+      "room": [
+        "Arranged ARRG"
+      ],
+      "sec": "01",
+      "times": [
+        "-"
+      ],
+      "title": "Intercollegiate Sports I",
+      "type": "Lab"
+    },
+    {
+      "course": "PED180",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "14212",
+      "days": [
+        ""
+      ],
+      "hours": "1",
+      "instructor": "Stockett, S",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Pilates",
+      "type": "Lab"
+    },
+    {
+      "course": "PED182",
+      "course_dates": {
+        "Course Begins": "9/1/2020",
+        "Course Ends": "11/19/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "5"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Off Schedule (Dept)"
+      ],
+      "crn": "15530",
+      "days": [
+        "TR"
+      ],
+      "hours": "1",
+      "instructor": "Hupp, V",
+      "room": [
+        "Looney Complex 114"
+      ],
+      "sec": "02",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Yoga",
+      "type": "Lab"
+    },
+    {
+      "course": "PED182",
+      "course_dates": {
+        "Course Begins": "8/31/2020",
+        "Course Ends": "11/18/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15529",
+      "days": [
+        ""
+      ],
+      "hours": "1",
+      "instructor": "Huffman, M",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Yoga",
+      "type": "100% Online"
+    },
+    {
+      "course": "PED185",
+      "course_dates": {
+        "Course Begins": "9/1/2020",
+        "Course Ends": "11/5/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "7"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Off Schedule (Dept)"
+      ],
+      "crn": "15531",
+      "days": [
+        "TR"
+      ],
+      "hours": "1",
+      "instructor": "Furlong, K",
+      "room": [
+        "Baker Center 133"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Begin Weight Trng and Cond",
+      "type": "Lab"
+    },
+    {
+      "course": "PED186",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "21"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15159",
+      "days": [
+        "MW"
+      ],
+      "hours": "1",
+      "instructor": "Larimore, A",
+      "room": [
+        "Looney Complex ARENA"
+      ],
+      "sec": "01",
+      "times": [
+        "10:00AM-10:55AM"
+      ],
+      "title": "Aerobic Fitness",
+      "type": "Lab"
+    },
+    {
+      "course": "PED191",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "36",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13582",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Buckler, M",
+      "room": [
+        "Griffon Indoor Sports Complex 134",
+        "Griffon Indoor Sports Complex 113"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM",
+        "9:30AM-10:50AM"
+      ],
+      "title": "Foundations of Physical Educat",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED192",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "50",
+        "Section Seats Available": "10"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "14451",
+      "days": [
+        ""
+      ],
+      "hours": "1",
+      "instructor": "Molina, S",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Independent Physical Activity",
+      "type": "100% Online"
+    },
+    {
+      "course": "PED193",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "50",
+        "Section Seats Available": "43"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "11067",
+      "days": [
+        ""
+      ],
+      "hours": "1",
+      "instructor": "Dodd, R",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Sp Weight Train for Athletes",
+      "type": "100% Online"
+    },
+    {
+      "course": "PED240",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "10/2/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "7"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "First 8 Weeks"
+      ],
+      "crn": "12033",
+      "days": [
+        "TR",
+        "TR",
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Johnson, B",
+      "room": [
+        "Griffon Indoor Sports Complex INDOOR FLD",
+        "Off Campus",
+        "Looney Complex 215"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-2:00PM",
+        "11:00AM-2:00PM",
+        "11:00AM-2:00PM"
+      ],
+      "title": "Lifetime Activities",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED241",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "13"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12034",
+      "days": [
+        "TR",
+        "TR",
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Johnson, B",
+      "room": [
+        "Griffon Indoor Sports Complex INDOOR FLD",
+        "Looney Complex 215",
+        "Looney Complex GYM"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM",
+        "9:30AM-10:50AM",
+        "9:30AM-10:50AM"
+      ],
+      "title": "Concepts of Sport Activities",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED303",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "35",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "B&N - First Day Program    64.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11074",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Kraft, J",
+      "room": [
+        "Looney Complex 226"
+      ],
+      "sec": "01",
+      "times": [
+        "12:30PM-1:50PM"
+      ],
+      "title": "Kinesiology",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "PED305",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "5"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13583",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Small, G",
+      "room": [
+        "Looney Complex 212"
+      ],
+      "sec": "01",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "First Aid: Responding to Emerg",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED306",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13584",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Small, G",
+      "room": [
+        "Looney Complex 212"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Sport Safety Training",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED317",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13803",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Kriewitz, K",
+      "room": [
+        "Baker Center 133",
+        "Looney Complex 216"
+      ],
+      "sec": "01",
+      "times": [
+        "12:00PM-1:50PM",
+        "12:00PM-1:50PM"
+      ],
+      "title": "Principles of Strength & Cond",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "PED327",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "14706",
+      "days": [
+        "MW",
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Gerlach, S",
+      "room": [
+        "Looney Complex 114",
+        "Looney Complex 129"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM",
+        "9:30AM-10:50AM"
+      ],
+      "title": "Special Populations",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "PED374",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "36",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "This course may be waitlisted through the online registration system."
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15160",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Russell, W",
+      "room": [
+        "Spratt Hall 101"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Psychology of Sport",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED385",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "8"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13589",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Ludwig, E",
+      "room": [
+        "Looney Complex 216"
+      ],
+      "sec": "01",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Athletic Training",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED388",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "35",
+        "Section Seats Available": "27"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "11104",
+      "days": [
+        ""
+      ],
+      "hours": "2",
+      "instructor": "Schilling, A",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Community Health",
+      "type": "100% Online"
+    },
+    {
+      "course": "PED391",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "35",
+        "Section Seats Available": "12"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "B&N - First Day Program    64.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "11107",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Dodd, R",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Personal & Environmental Hlth",
+      "type": "100% Online"
+    },
+    {
+      "course": "PED392",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "30",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12035",
+      "days": [
+        "MW",
+        "MW",
+        "MW",
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Molina, S",
+      "room": [
+        "Looney Complex 226",
+        "Looney Complex 215",
+        "Looney Complex GYM",
+        "Off Campus"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM",
+        "9:30AM-10:50AM",
+        "9:30AM-10:50AM",
+        "9:30AM-10:50AM"
+      ],
+      "title": "Child Growth and Motor Dev",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED400",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "5"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15211",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Gerlach, S",
+      "room": [
+        "Looney Complex 129"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Advanced CV Phys",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "PED417",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15161",
+      "days": [
+        "MW",
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Gerlach, S",
+      "room": [
+        "Looney Complex 129",
+        "Baker Center 133"
+      ],
+      "sec": "01",
+      "times": [
+        "12:30PM-1:50PM",
+        "12:30PM-1:50PM"
+      ],
+      "title": "Personal Training",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "PED420",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "16"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12236",
+      "days": [
+        "MW"
+      ],
+      "hours": "1",
+      "instructor": "Johnson, B",
+      "room": [
+        "Looney Complex 226"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-11:55AM"
+      ],
+      "title": "Senior Seminar in Phys Educ",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED451",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "10"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "HPER Fee    10.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11114",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Russell, W",
+      "room": [
+        "Looney Complex 216"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Research in Health & Exercise",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "PED480",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "12"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11115",
+      "days": [
+        "M"
+      ],
+      "hours": "2",
+      "instructor": "Kraft, J",
+      "room": [
+        "Looney Complex 215"
+      ],
+      "sec": "01",
+      "times": [
+        "2:00PM-2:55PM"
+      ],
+      "title": "Practicum in Physical Ed.",
+      "type": "Intern/Pract/Field Exp/Seminar"
+    },
+    {
+      "course": "PED480",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "10",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11116",
+      "days": [
+        "M"
+      ],
+      "hours": "2",
+      "instructor": "Kriley, B",
+      "room": [
+        "Looney Complex 215"
+      ],
+      "sec": "02",
+      "times": [
+        "2:00PM-2:55PM"
+      ],
+      "title": "Practicum in Physical Ed.",
+      "type": "Intern/Pract/Field Exp/Seminar"
+    }
+  ]

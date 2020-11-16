@@ -1,0 +1,181 @@
+[
+    {
+      "course": "ACT102",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "18"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10251",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Noynaert, J",
+      "room": [
+        "Online Course"
+      ],
+      "sec": "40",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Intro to Web Page Development",
+      "type": "100% Online w/Meeting Times"
+    },
+    {
+      "course": "ACT102",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "20"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10253",
+      "days": [
+        "W"
+      ],
+      "hours": "3",
+      "instructor": "Noynaert, J",
+      "room": [
+        "Online Course"
+      ],
+      "sec": "41",
+      "times": [
+        "6:30PM-9:10PM"
+      ],
+      "title": "Intro to Web Page Development",
+      "type": "100% Online w/Meeting Times"
+    },
+    {
+      "course": "ACT211",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "10"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15452",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Noynaert, J",
+      "room": [
+        "Agenstein Hall 124"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Internet Scripting",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "ACT405",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11961",
+      "days": [
+        "R"
+      ],
+      "hours": "3",
+      "instructor": "Hecker, C",
+      "room": [
+        "Agenstein Hall 127"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Business Intelligence",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "ACT490",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "13",
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "23"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "CSMP Program Fee    38.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "CSC490 40"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15357",
+      "days": [
+        "W"
+      ],
+      "hours": "1",
+      "instructor": "Pickett, H",
+      "room": [
+        "Online Course"
+      ],
+      "sec": "40",
+      "times": [
+        "11:00AM-11:55AM"
+      ],
+      "title": "IT Career Preparation",
+      "type": "100% Online"
+    }
+  ]

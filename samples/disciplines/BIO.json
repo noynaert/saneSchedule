@@ -1,0 +1,2298 @@
+[
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "11",
+        "Maximum Enrollment": "72",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "BIO101 80"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12210",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Newton, A",
+      "room": [
+        "Spratt Hall 101"
+      ],
+      "sec": "01",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "96",
+        "Section Seats Available": "3"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12211",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Chevalier, C",
+      "room": [
+        "Fulkerson Center CENTER"
+      ],
+      "sec": "02",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "48",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12213",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Ganong, C",
+      "room": [
+        "Popplewell Hall 304"
+      ],
+      "sec": "03",
+      "times": [
+        "2:00PM-3:20PM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10324",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Chevalier, C",
+      "room": [
+        "Remington Hall 209"
+      ],
+      "sec": "09",
+      "times": [
+        "2:00PM-3:50PM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10325",
+      "days": [
+        "W"
+      ],
+      "hours": "0",
+      "instructor": "Eckdahl, T",
+      "room": [
+        "Remington Hall 209"
+      ],
+      "sec": "10",
+      "times": [
+        "8:00AM-9:50AM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10327",
+      "days": [
+        "M"
+      ],
+      "hours": "0",
+      "instructor": "Newton, A",
+      "room": [
+        "Remington Hall 209"
+      ],
+      "sec": "12",
+      "times": [
+        "2:00PM-3:50PM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10328",
+      "days": [
+        "W"
+      ],
+      "hours": "0",
+      "instructor": "Elias, A",
+      "room": [
+        "Remington Hall 209"
+      ],
+      "sec": "13",
+      "times": [
+        "2:00PM-3:50PM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10331",
+      "days": [
+        "R"
+      ],
+      "hours": "0",
+      "instructor": "Eckdahl, T",
+      "room": [
+        "Remington Hall 209"
+      ],
+      "sec": "16",
+      "times": [
+        "2:00PM-3:30PM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10337",
+      "days": [
+        "W"
+      ],
+      "hours": "0",
+      "instructor": "Breckenridge, L",
+      "room": [
+        "Remington Hall 209"
+      ],
+      "sec": "17",
+      "times": [
+        "4:00PM-5:50PM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12216",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Breckenridge, L",
+      "room": [
+        "Remington Hall 209"
+      ],
+      "sec": "22",
+      "times": [
+        "4:00PM-5:50PM"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "13938",
+      "days": [
+        ""
+      ],
+      "hours": "4",
+      "instructor": "Nabors, M",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Principles of Biology",
+      "type": "100% Online"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15124",
+      "days": [
+        ""
+      ],
+      "hours": "0",
+      "instructor": "Nabors, M",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "41",
+      "times": [
+        "-"
+      ],
+      "title": "Principles of Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "48",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "12214",
+      "days": [
+        ""
+      ],
+      "hours": "4",
+      "instructor": "Jedlicka, J",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "42",
+      "times": [
+        "-"
+      ],
+      "title": "Principles of Biology",
+      "type": "100% Online"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "11",
+        "Maximum Enrollment": "72",
+        "Section Seats Available": "7"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "BIO101 01"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13481",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Newton, A",
+      "room": [
+        "Spratt Hall 101"
+      ],
+      "sec": "80",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Principles of Biology (Honors)",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO101",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "7"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13482",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Newton, A",
+      "room": [
+        "Remington Hall 209"
+      ],
+      "sec": "81",
+      "times": [
+        "8:00AM-9:50AM"
+      ],
+      "title": "Principles Of Biology (Honors)",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO105",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "13",
+        "Maximum Enrollment": "72",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "BIO105 80"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13940",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Roy, T",
+      "room": [
+        "Agenstein Hall 324"
+      ],
+      "sec": "01",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Prin of Organismal Biology",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO105",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13943",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Roy, T",
+      "room": [
+        "Remington Hall 211"
+      ],
+      "sec": "03",
+      "times": [
+        "2:00PM-4:40PM"
+      ],
+      "title": "Prin of Organismal Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO105",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "13",
+        "Maximum Enrollment": "72",
+        "Section Seats Available": "11"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "BIO105 01"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13944",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Roy, T",
+      "room": [
+        "Agenstein Hall 324"
+      ],
+      "sec": "80",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Prin of Org Biology (Honors)",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO105",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "11"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13946",
+      "days": [
+        "R"
+      ],
+      "hours": "0",
+      "instructor": "Roy, T",
+      "room": [
+        "Remington Hall 211"
+      ],
+      "sec": "81",
+      "times": [
+        "8:00AM-10:40AM"
+      ],
+      "title": "Prin of Org Biology (Honors)",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO106",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "60",
+        "Section Seats Available": "13"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10349",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Barta, C",
+      "room": [
+        "Agenstein Hall 224"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Principles of Cell Biology",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO106",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10350",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Barta, C",
+      "room": [
+        "Remington Hall 205"
+      ],
+      "sec": "02",
+      "times": [
+        "8:00AM-10:40AM"
+      ],
+      "title": "Principles of Cell Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO106",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10351",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Barta, C",
+      "room": [
+        "Remington Hall 205"
+      ],
+      "sec": "03",
+      "times": [
+        "2:00PM-4:40PM"
+      ],
+      "title": "Principles of Cell Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO106",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10352",
+      "days": [
+        "R"
+      ],
+      "hours": "0",
+      "instructor": "Elias, A",
+      "room": [
+        "Remington Hall 205"
+      ],
+      "sec": "04",
+      "times": [
+        "8:00AM-10:40AM"
+      ],
+      "title": "Principles of Cell Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO205",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10354",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Eckdahl, T",
+      "room": [
+        "Remington Hall 208"
+      ],
+      "sec": "02",
+      "times": [
+        "8:00AM-10:40AM"
+      ],
+      "title": "Genetics",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO207",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "40",
+        "Section Seats Available": "9"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "14270",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Jedlicka, J",
+      "room": [
+        "Agenstein Hall 324"
+      ],
+      "sec": "01",
+      "times": [
+        "2:00PM-3:20PM"
+      ],
+      "title": "Human Ecology",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO225",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "40",
+        "Section Seats Available": "8"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12241",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Mills, M",
+      "room": [
+        "Spratt Hall 205"
+      ],
+      "sec": "01",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Ecology",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO225",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "7"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12242",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Mills, M",
+      "room": [
+        "Remington Hall 217"
+      ],
+      "sec": "02",
+      "times": [
+        "8:00AM-10:40AM"
+      ],
+      "title": "Ecology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO225",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12243",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Mills, M",
+      "room": [
+        "Remington Hall 217"
+      ],
+      "sec": "03",
+      "times": [
+        "2:00PM-4:40PM"
+      ],
+      "title": "Ecology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO250",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "120",
+        "Section Seats Available": "10"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "B&N - First Day Program    76.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10357",
+      "days": [
+        "MTWR"
+      ],
+      "hours": "5",
+      "instructor": "Elias, A",
+      "room": [
+        "Fulkerson Center CENTER"
+      ],
+      "sec": "01",
+      "times": [
+        "12:30PM-1:25PM"
+      ],
+      "title": "Anatomy and Physiology",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO250",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10358",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Elias, A",
+      "room": [
+        "Agenstein Hall 227"
+      ],
+      "sec": "02",
+      "times": [
+        "10:00AM-11:50AM"
+      ],
+      "title": "Anatomy and Physiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO250",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10359",
+      "days": [
+        "W"
+      ],
+      "hours": "0",
+      "instructor": "Newton, A",
+      "room": [
+        "Agenstein Hall 227"
+      ],
+      "sec": "03",
+      "times": [
+        "10:00AM-11:50AM"
+      ],
+      "title": "Anatomy and Physiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO250",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10361",
+      "days": [
+        "R"
+      ],
+      "hours": "0",
+      "instructor": "Newton, A",
+      "room": [
+        "Agenstein Hall 227"
+      ],
+      "sec": "05",
+      "times": [
+        "8:00AM-9:50AM"
+      ],
+      "title": "Anatomy and Physiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO250",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11667",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Elias, A",
+      "room": [
+        "Agenstein Hall 227"
+      ],
+      "sec": "07",
+      "times": [
+        "2:00PM-3:50PM"
+      ],
+      "title": "Anatomy and Physiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO250",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12122",
+      "days": [
+        "W"
+      ],
+      "hours": "0",
+      "instructor": "Newton, A",
+      "room": [
+        "Agenstein Hall 227"
+      ],
+      "sec": "08",
+      "times": [
+        "4:00PM-5:50PM"
+      ],
+      "title": "Anatomy and Physiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO251",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "80",
+        "Section Seats Available": "7"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10363",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Grantham, M",
+      "room": [
+        "Popplewell Hall 304"
+      ],
+      "sec": "01",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Med and Public Health Microbio",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO251",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12267",
+      "days": [
+        "MW"
+      ],
+      "hours": "0",
+      "instructor": "Grantham, M",
+      "room": [
+        "Remington Hall 201"
+      ],
+      "sec": "02",
+      "times": [
+        "12:30PM-1:50PM"
+      ],
+      "title": "Med and Public Health Microbio",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO251",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10366",
+      "days": [
+        "TR"
+      ],
+      "hours": "0",
+      "instructor": "Grantham, M",
+      "room": [
+        "Remington Hall 201"
+      ],
+      "sec": "03",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Med and Public Health Microbio",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO251",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "11929",
+      "days": [
+        "TR"
+      ],
+      "hours": "0",
+      "instructor": "Baker, J",
+      "room": [
+        "Remington Hall 201"
+      ],
+      "sec": "04",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Med and Public Health Microbio",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO251",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "3"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "14951",
+      "days": [
+        "MW"
+      ],
+      "hours": "0",
+      "instructor": "Baker, J",
+      "room": [
+        "Remington Hall 201"
+      ],
+      "sec": "05",
+      "times": [
+        "2:00PM-3:20PM"
+      ],
+      "title": "Med and Public Health Microbio",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO310",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "9"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15567",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Grantham, M",
+      "room": [
+        "Agenstein Hall 123"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Molecular Cell Biology",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO310",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "9"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15568",
+      "days": [
+        "R"
+      ],
+      "hours": "0",
+      "instructor": "Grantham, M",
+      "room": [
+        "Remington Hall 205"
+      ],
+      "sec": "02",
+      "times": [
+        "2:00PM-4:40PM"
+      ],
+      "title": "Molecular Cell Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO311",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "40",
+        "Section Seats Available": "16"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10368",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Walton, K",
+      "room": [
+        "Agenstein Hall 124"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Animal Physiology",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO311",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10369",
+      "days": [
+        "M"
+      ],
+      "hours": "0",
+      "instructor": "Walton, K",
+      "room": [
+        "Agenstein Hall 227"
+      ],
+      "sec": "02",
+      "times": [
+        "2:00PM-4:40PM"
+      ],
+      "title": "Animal Physiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO311",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "15"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "12894",
+      "days": [
+        "W"
+      ],
+      "hours": "0",
+      "instructor": "Walton, K",
+      "room": [
+        "Agenstein Hall 227"
+      ],
+      "sec": "03",
+      "times": [
+        "12:30PM-3:10PM"
+      ],
+      "title": "Animal Physiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO314",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "9",
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "HUM314 01, ENG314 01, PSY314 01, PSC314 01"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15293",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "DesAutels, L",
+      "room": [
+        "Popplewell Hall 111"
+      ],
+      "sec": "01",
+      "times": [
+        "3:30PM-4:50PM"
+      ],
+      "title": "Technology and Society",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO350",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "13"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15566",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Roy, T",
+      "room": [
+        "Remington Hall 211"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Plant Systematics",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO350",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "24",
+        "Section Seats Available": "13"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15563",
+      "days": [
+        "R"
+      ],
+      "hours": "0",
+      "instructor": "Roy, T",
+      "room": [
+        "Remington Hall 211"
+      ],
+      "sec": "02",
+      "times": [
+        "2:00PM-3:50PM"
+      ],
+      "title": "Plant Systematics",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO360",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "40",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15569",
+      "days": [
+        "MW"
+      ],
+      "hours": "3",
+      "instructor": "Chevalier, C",
+      "room": [
+        "Agenstein Hall 330"
+      ],
+      "sec": "40",
+      "times": [
+        "5:00PM-6:20PM"
+      ],
+      "title": "Development of Wildlife Law",
+      "type": "100% Online w/Meeting Times"
+    },
+    {
+      "course": "BIO375",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "100",
+        "Section Seats Available": "32"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10373",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "hours": "4",
+      "instructor": "Walton, K",
+      "room": [
+        "Agenstein Hall 324",
+        "Agenstein Hall 324"
+      ],
+      "sec": "01",
+      "times": [
+        "12:30PM-1:25PM",
+        "12:30PM-1:50PM"
+      ],
+      "title": "Pathophysiology",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO380",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "5",
+        "Section Seats Available": "4"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15504",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Koy, K",
+      "room": [
+        "Arranged ARRG"
+      ],
+      "sec": "02",
+      "times": [
+        "-"
+      ],
+      "title": "Biology Teaching:Matrls & Meth",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO390",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "40",
+        "Section Seats Available": "7"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10374",
+      "days": [
+        "MW",
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Baker, J",
+      "room": [
+        "Griffon Indoor Sports Complex 113",
+        "Griffon Indoor Sports Complex 134"
+      ],
+      "sec": "01",
+      "times": [
+        "12:30PM-1:50PM",
+        "12:30PM-1:50PM"
+      ],
+      "title": "Microbiology",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO390",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10375",
+      "days": [
+        "TR"
+      ],
+      "hours": "0",
+      "instructor": "Baker, J",
+      "room": [
+        "Remington Hall 201"
+      ],
+      "sec": "02",
+      "times": [
+        "12:30PM-1:50PM"
+      ],
+      "title": "Microbiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO390",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10376",
+      "days": [
+        "TR"
+      ],
+      "hours": "0",
+      "instructor": "Baker, J",
+      "room": [
+        "Remington Hall 201"
+      ],
+      "sec": "03",
+      "times": [
+        "2:00PM-3:20PM"
+      ],
+      "title": "Microbiology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO415",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "3"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15564",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Ganong, C",
+      "room": [
+        "Agenstein Hall 123"
+      ],
+      "sec": "01",
+      "times": [
+        "8:00AM-9:20AM"
+      ],
+      "title": "Invertebrate Biology",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO415",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "3"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15565",
+      "days": [
+        "T"
+      ],
+      "hours": "0",
+      "instructor": "Ganong, C",
+      "room": [
+        "Mo Dept of Conservation 103"
+      ],
+      "sec": "02",
+      "times": [
+        "2:00PM-4:40PM"
+      ],
+      "title": "Invertebrate Biology",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO419",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "11",
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        },
+        {
+          "This course is crosslisted with": "PSY419 01"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13954",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Jedlicka, J",
+      "room": [
+        "Agenstein Hall 326"
+      ],
+      "sec": "01",
+      "times": [
+        "11:00AM-12:20PM"
+      ],
+      "title": "Animal Behavior",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "BIO419",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Crosslist Seats Available": "11",
+        "Maximum Enrollment": "20",
+        "Section Seats Available": "6"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        },
+        {
+          "This course is crosslisted with": "PSY419 02"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "13955",
+      "days": [
+        "R"
+      ],
+      "hours": "0",
+      "instructor": "Jedlicka, J",
+      "room": [
+        "Remington Hall 217"
+      ],
+      "sec": "02",
+      "times": [
+        "8:00AM-10:40AM"
+      ],
+      "title": "Animal Behavior",
+      "type": "Lab"
+    },
+    {
+      "course": "BIO450",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "4",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Biology Lab Fee    80.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15641",
+      "days": [
+        "U"
+      ],
+      "hours": "2",
+      "instructor": "Barta, C",
+      "room": [
+        "Arranged ARRG"
+      ],
+      "sec": "16",
+      "times": [
+        "-"
+      ],
+      "title": "Independent Research/Project",
+      "type": "Independent Research"
+    },
+    {
+      "course": "BIO496",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        },
+        {
+          "ADDITIONAL FEE": "Biology Program Fee    38.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15577",
+      "days": [
+        "MW"
+      ],
+      "hours": "4",
+      "instructor": "Ganong, C",
+      "room": [
+        "Agenstein Hall 123"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Aquatic Ecology",
+      "type": "Lecture, 100% in Classroom"
+    },
+    {
+      "course": "BIO496",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "15",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "Additional Info 1": "You must register for both a Lecture and Lab for this course."
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "15578",
+      "days": [
+        "R"
+      ],
+      "hours": "0",
+      "instructor": "Ganong, C",
+      "room": [
+        "Mo Dept of Conservation 103"
+      ],
+      "sec": "02",
+      "times": [
+        "4:00PM-6:50PM"
+      ],
+      "title": "Aquatic Ecology",
+      "type": "Lab"
+    }
+  ]

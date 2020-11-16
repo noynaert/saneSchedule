@@ -1,0 +1,221 @@
+[
+    {
+      "course": "ALH106",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "50",
+        "Section Seats Available": "34"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "B&N - First Day Program    72.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "10683",
+      "days": [
+        "R"
+      ],
+      "hours": "2",
+      "instructor": "Voga, A",
+      "room": [
+        "Murphy Hall 107"
+      ],
+      "sec": "01",
+      "times": [
+        "10:00AM-11:50AM"
+      ],
+      "title": "Medical Terminology",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "ALH106",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "75",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "B&N - First Day Program    72.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "10684",
+      "days": [
+        ""
+      ],
+      "hours": "2",
+      "instructor": "Fast, K",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Medical Terminology",
+      "type": "100% Online"
+    },
+    {
+      "course": "ALH330",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "14"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15140",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Samuel, C",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "40",
+      "times": [
+        "-"
+      ],
+      "title": "Intro to Epidemiology and Bios",
+      "type": "100% Online"
+    },
+    {
+      "course": "ALH350",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "25",
+        "Section Seats Available": "12"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    38.00 FLAT(Flat Fee)"
+        },
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "14045",
+      "days": [
+        "TR"
+      ],
+      "hours": "3",
+      "instructor": "Sansone, F",
+      "room": [
+        "Murphy Hall 310"
+      ],
+      "sec": "01",
+      "times": [
+        "9:30AM-10:50AM"
+      ],
+      "title": "Intro to Population Health",
+      "type": "Classroom w/Online Component"
+    },
+    {
+      "course": "ALH352",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "35",
+        "Section Seats Available": "2"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Distance Education"
+      ],
+      "crn": "15560",
+      "days": [
+        ""
+      ],
+      "hours": "2",
+      "instructor": "Stewart, S",
+      "room": [
+        "Online Course "
+      ],
+      "sec": "41",
+      "times": [
+        "-"
+      ],
+      "title": "Applied Nutrition",
+      "type": "100% Online"
+    },
+    {
+      "course": "ALH402",
+      "course_dates": {
+        "Course Begins": "8/17/2020",
+        "Course Ends": "11/24/2020"
+      },
+      "course_description": "",
+      "course_enrollment": {
+        "Maximum Enrollment": "5",
+        "Section Seats Available": "1"
+      },
+      "course_messages": [
+        {
+          "ADDITIONAL FEE": "Health Prof Program Fee    45.00 CRED(per Credit Hour fee)"
+        }
+      ],
+      "course_term": [
+        "Full Term"
+      ],
+      "crn": "14047",
+      "days": [
+        ""
+      ],
+      "hours": "3",
+      "instructor": "Sansone, F",
+      "room": [
+        "Arranged ARRG"
+      ],
+      "sec": "01",
+      "times": [
+        "-"
+      ],
+      "title": "Population Health Internship",
+      "type": "Intern/Pract/Field Exp/Seminar"
+    }
+  ]
