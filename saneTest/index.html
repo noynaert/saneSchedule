@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sane Test</title>
+    <!--<link rel="stylesheet" href="styles.css" >-->
+    <script src="https://unpkg.com/vue@next" defer></script>
+    <script src="app.js" defer></script>
+
+</head>
+<body>
+    <head>
+        <h1>Test of Sane Schedule Layout with file reading</h1>
+    </head>
+    <div id="saneSched">
+        <div id="menuArea">
+            <h2>Discipline</h2>
+            <select id="discipline" v-model="discSelect" v-on:change="changeDisc()" >
+                <option disabled value="">Select a Discipline</option>
+                <option v-for="v in disciplines" v-bind:value=v.abbr>
+                    {{ v.full }}
+                </option>
+                
+            </select>
+            <p>{{ discStatus }}</p>
+        </div>
+        <div id="displayArea">
+            <h2>{{ pickBy }} {{ discSelect }}</h2>
+            <p>Data: {{ disciplines.length }}</p>
+        </div>
+
+    </div>
+</body>
+</html>
